@@ -31,5 +31,9 @@ nav ul {
  }
 
  .wrapper > .dfn {
-   background-color: #b58900
+   background-color: #b58900;
  }
+
+.wrapper > .dfn > p + strong {
+  color: #fff;
+}
