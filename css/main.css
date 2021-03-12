@@ -23,11 +23,11 @@ nav ul {
 }
 
 .wrapper {
-  background-color: #eee8d5
+  background-color: #eee8d5;
  }
 
  #contents, #favs, #facts, #types {
-   color: #93a1a1
+   color: #93a1a1;
  }
 
  .wrapper > .dfn {
@@ -39,7 +39,7 @@ nav ul {
 }
 
 a:not(.no-highlight) {
-  background-color: #719e07
+  background-color: #719e07;
 }
 
 [rel="external"] {
@@ -47,11 +47,11 @@ a:not(.no-highlight) {
 }
 
 ol > li:first-child {
-  color: #719e47
+  color: #719e47;
 }
 
 ol > li:last-child {
-  color: #2aa198
+  color: #2aa198;
 }
 
 .types > li:nth-child(odd) {
